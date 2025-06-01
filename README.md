@@ -5,6 +5,10 @@
 > *“I praise you, for I am fearfully and wonderfully made.”*  
 > — Psalm 139:14
 
+<a href="https://github.com/trevortomesh/fearfully-coded">
+  <img alt="Fearfully Coded 🕊️" src="https://img.shields.io/badge/Fearfully%20Coded%20🕊️-lightgrey?style=flat-square"/>
+</a>
+
 **Fearfully Coded** is an open invitation for Christian programmers to dedicate their work to the Lord.
 
 Technology is one of the most powerful — and dangerous — forces shaping our age. From artificial intelligence to pornography, its misuse threatens minds and souls. This project is a small way to respond with prayer, intention, and humility. We believe code can be written in the presence of the Holy Spirit.
