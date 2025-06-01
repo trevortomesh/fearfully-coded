@@ -132,11 +132,11 @@ SOFTWARE.
 
 ---
 
-## 🌀What is Vibe Coding?
+## 🌀What is Vibecoding?
 
-**Vibe coding** is a modern, AI-assisted approach to development where you guide the generation of code through natural language, intuition, and iterative feedback. Rather than typing every line manually, the developer provides goals and intentions—and lets the AI do the heavy lifting.
-This README was vibe-coded. You can use the badge above to show you’re riding the vibe, too.
----
+*Vibecoding* is a modern, AI-assisted approach to development where you guide the generation of code through natural language, intuition, and iterative feedback. Rather than typing every line manually, the developer provides goals and intentions—and lets the AI do the heavy lifting.
+This README was vibe-coded. You can use the badge above to show you’re riding the vibe, too.---
+
 
 ## ✉️ Want to Contribute?
 
