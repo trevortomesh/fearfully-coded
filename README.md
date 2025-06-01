@@ -6,7 +6,7 @@
 > — Psalm 139:14
 
 <a href="https://github.com/trevortomesh/fearfully-coded">
-  <img alt="Fearfully Coded 🕊️" src="https://img.shields.io/badge/Fearfully%20Coded%20🕊️-lightgrey?style=flat-square"/>
+  <img alt="Fearfully Coded 🕊️" src="https://img.shields.io/badge/Fearfully%20Coded%20🕊️-6a1b9a?style=flat-square&logoColor=white"/>
 </a>
 
 **Fearfully Coded** is an open invitation for Christian programmers to dedicate their work to the Lord.
